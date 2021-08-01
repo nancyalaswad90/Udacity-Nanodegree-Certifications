@@ -105,3 +105,18 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
+
+
+
+.
+
+
+# Udacity Challenges to gain varies Nanodegree programs 
+
+
+
+
+====================================
+
+
+.
