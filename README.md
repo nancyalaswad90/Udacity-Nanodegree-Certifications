@@ -49,7 +49,26 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
-> ## 3. ) [Product Manager]()
+
+
+
+> ## 3. )  Data Foundations Nanodegree Certificate
+
+
+
+> ![FA.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1627856379/FA.png)
+
+
+
+
+.
+
+--------------------------------------------------------------------
+
+
+.
+
+> ## xxxx ) [Product Manager]()
 
 
 
@@ -70,7 +89,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 .
   
   
-  > ## 4. ) [ Growth Product Manager ]()
+  > ## xxxx ) [ Growth Product Manager ]()
   
   
   
