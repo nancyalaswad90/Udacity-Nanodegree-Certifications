@@ -130,8 +130,11 @@ To make sure you feel comfortable with the basics before you begin. If it feels 
 
 
 
+> ## And Here is my Data Analyst Nanodegree Certificate
 
-  [Udacity](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)
+.
+
+  > ![Udacity](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)
   
   
   
