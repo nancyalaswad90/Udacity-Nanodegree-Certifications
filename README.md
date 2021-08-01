@@ -134,9 +134,8 @@ To make sure you feel comfortable with the basics before you begin. If it feels 
 
 .
 
-> ![da.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)
-  
-  
+> ![pmp_certifiacation](https://user-images.githubusercontent.com/36210723/127786839-5324fe3b-6e62-49b4-abd7-9202f0398f20.png)
+
 
 
 
