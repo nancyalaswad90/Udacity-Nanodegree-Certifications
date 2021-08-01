@@ -120,3 +120,38 @@ To make sure you feel comfortable with the basics before you begin. If it feels 
 .
 
 
+
+---------------------------------------
+
+.
+
+
+> ## 3. ) [Product Manager]()
+
+
+
+
+  [Udacity](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)
+  
+  
+  
+  .
+
+
+
+---------------------------------------
+
+.
+  
+  
+  > ## 4. ) [ Growth Product Manager ]()
+  
+  
+  
+
+  
+  
+  
+
+
+
