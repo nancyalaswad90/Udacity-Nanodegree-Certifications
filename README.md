@@ -19,7 +19,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## And Here is my Data Analyst Nanodegree Certificate
+## And Here is my Data Analyst Nanodegree Certificate
 
 .
 
