@@ -120,3 +120,5 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 .
+
+## [SUSE Scholarship Program](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/README.md)
