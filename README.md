@@ -118,8 +118,21 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 ====================================
 
+## [Bertelsmann for the Intro to ML with Tensor Flow Challenge Course.](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/label%3Audacity+Challenges/FMfcgzGllMNfZfZRXCNfvmNqcBJtsqrM) 
+
+
 
 .
+
+![ber](https://user-images.githubusercontent.com/36210723/147797138-cb2a9a43-94c2-4c6d-8db4-dcab0933c622.png)
+
+.
+
+
+------------------------------------------------------------------------------------------------
+
+.
+
 
 ## [SUSE Scholarship Program](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/README.md)
 
