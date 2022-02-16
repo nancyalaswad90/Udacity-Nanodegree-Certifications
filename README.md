@@ -51,7 +51,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## 3. )  Data Foundations Nanodegree Certificate
+> ## 3. )  [Data Foundations Nanodegree Certificate](https://classroom.udacity.com/nanodegrees/nd100-ent/dashboard/overview)
 
 
 
@@ -67,7 +67,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
-> ## 4. )   .[ Machine Learning Engineer ]()
+> ## 4. )   .[ Machine Learning Engineer ](https://classroom.udacity.com/nanodegrees/nd009t/dashboard/overview)
 
 .
 
@@ -89,7 +89,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## 5. )   .[ Deep Learning ]()
+> ## 5. )   .[ Deep Learning ](https://classroom.udacity.com/nanodegrees/nd101/dashboard/overview)
 
 .
 
@@ -110,7 +110,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## 6. )   .[ Computer Vision ]()
+> ## 6. )   .[ Computer Vision ](https://classroom.udacity.com/nanodegrees/nd891/dashboard/overview)
 
 .
 
@@ -131,7 +131,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## 7. )   .[ Udacity Mentorship ]()
+> ## 7. )   .[ Udacity Mentorship ](https://classroom.udacity.com/nanodegrees/nd0143/dashboard/overview)
 
 .
 
@@ -155,7 +155,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## 8. )   . [Product Manager ( Beta )]()
+> ## 8. )   . [ Product Manager Program  ( Beta ) Nanodegree Program ](https://classroom.udacity.com/nanodegrees/nd036-beta/dashboard/overview)
 
 > ## And Here is my Data Analyst Nanodegree Certificate
 
@@ -173,7 +173,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
   
-  > ## 9. )   . [Growth Product Manager  ( Beta )  ]()
+  > ## 9. )   . [ Growth Product Manager ( Beta ) Nanodegree Program   ](https://classroom.udacity.com/nanodegrees/nd037-beta/dashboard/overview)
 
 
 
@@ -183,7 +183,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
   .
   
-  > ## 10. )   . [ Some Project for User Experience ( Beta ) Nanodegree Program   ]()
+  > ## 10. )   . [ Some Project for User Experience ( Beta ) Nanodegree Program   ](https://classroom.udacity.com/nanodegrees/nd578-beta/syllabus/core-curriculum)
 
 
 
