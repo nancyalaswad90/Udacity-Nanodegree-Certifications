@@ -114,7 +114,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
->  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
+>  ![cv](https://user-images.githubusercontent.com/36210723/119091532-e7bdfe80-ba15-11eb-887a-9ccb950006a2.png)
 
 
 
