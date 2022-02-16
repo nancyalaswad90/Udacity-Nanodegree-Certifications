@@ -65,6 +65,11 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 --------------------------------------------------------------------
 
 
+
+
+
+
+
 .
 
 > ## xxxx ) [Product Manager]()
@@ -104,10 +109,40 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-
+  > ## xxxx ) [  Machine Learning Engineer ]()
 
 
 .
+
+  .
+
+--------------------------------------------------------------------
+
+
+.
+
+
+
+
+
+
+
+  .
+
+--------------------------------------------------------------------
+
+
+.
+
+
+
+
+
+
+> ================================================================================================================
+
+
+
 
 
 # Udacity Challenges to gain varies Nanodegree programs 
