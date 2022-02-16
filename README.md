@@ -71,7 +71,8 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
->  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
+
+> ![Machine Learning Engineer](https://user-images.githubusercontent.com/36210723/154186422-24514467-3e56-45b9-a24f-2adc3bf5b834.png)
 
 
 
