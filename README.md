@@ -94,8 +94,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
->  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
-
+> ![Deep Learning](https://user-images.githubusercontent.com/36210723/154186720-5631dc49-7d61-4b4b-b139-1388bb47cbd5.png)
 
 
 
