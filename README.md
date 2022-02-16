@@ -65,6 +65,14 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 --------------------------------------------------------------------
 
 
+.
+
+> ## 4. )   .[ Machine Learning Engineer ]()
+
+.
+
+>  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
+
 
 
 
@@ -72,9 +80,82 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
-> ## xxxx ) [Product Manager]()
+
+--------------------------------------------------------------------
 
 
+.
+
+
+
+
+> ## 5. )   .[ Deep Learning ]()
+
+.
+
+>  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
+
+
+
+
+
+
+.
+
+--------------------------------------------------------------------
+
+
+.
+
+
+
+
+> ## 6. )   .[ Computer Vision ]()
+
+.
+
+>  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
+
+
+
+
+
+
+.
+
+
+--------------------------------------------------------------------
+
+
+.
+
+
+
+> ## 7. )   .[ Udacity Mentorship ]()
+
+.
+
+>  ![certi](https://user-images.githubusercontent.com/36210723/111054235-c66bef80-8473-11eb-8184-1fdc5f83ecf3.png)
+
+
+
+
+
+
+.
+
+
+--------------------------------------------------------------------
+
+
+
+
+
+.
+
+
+
+> ## 8. )   . [Product Manager ( Beta )]()
 
 > ## And Here is my Data Analyst Nanodegree Certificate
 
@@ -92,51 +173,23 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
   
+  > ## 9. )   . [Growth Product Manager  ( Beta )  ]()
+
+
+
   
-  > ## xxxx ) [ Growth Product Manager ]()
   
   
+
+  .
   
+  > ## 10. )   . [ Some Project for User Experience ( Beta ) Nanodegree Program   ]()
+
+
 
   
   
   .
-
---------------------------------------------------------------------
-
-
-.
-
-
-
-  > ## xxxx ) [  Machine Learning Engineer ]()
-
-
-.
-
-  .
-
---------------------------------------------------------------------
-
-
-.
-
-
-
-
-
-
-
-  .
-
---------------------------------------------------------------------
-
-
-.
-
-
-
-
 
 
 > ================================================================================================================
