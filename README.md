@@ -216,11 +216,34 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
+
+
+
 .
 
 ![ber](https://user-images.githubusercontent.com/36210723/147797138-cb2a9a43-94c2-4c6d-8db4-dcab0933c622.png)
 
 .
+
+
+
+
+
+
+![b1](https://user-images.githubusercontent.com/36210723/155847219-834ea498-ada5-4dd3-905c-bd2d73b29693.png)
+
+
+
+.
+
+
+.
+
+
+![lod](https://user-images.githubusercontent.com/36210723/155847223-3d897722-ba76-4b55-b68f-8803ef56fd73.png)
+
+
+
 
 
 ------------------------------------------------------------------------------------------------
