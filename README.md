@@ -228,6 +228,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
+> ##  [I have been selected for a Nanodegree Program in the Technology Scholarship](https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Udacity/FMfcgzGmvBtHWmrmzHPQKkgMKTZghqbg)
 
 
 ![b1](https://user-images.githubusercontent.com/36210723/155847219-834ea498-ada5-4dd3-905c-bd2d73b29693.png)
