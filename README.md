@@ -239,11 +239,17 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
+>  ## [Scholarship badge](https://udacity-email.s3.us-west-2.amazonaws.com/Bertelsmann_Scholarship_Creative/Bertelsmann_Winner_Badge.png?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=70914a5e-9cc2-4b6e-b163-232461781084&utm_campaign=sch_600_2021-02-25_ndxxx_bertelsmann-year3-p2-winner_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2021-02-25_ndxxx_bertelsmann-year3-p2-winner_global&bsft_clkid=7d1e562b-c090-4cd0-b05b-b44e624552cf&bsft_uid=00de2879-837f-441d-951a-23c93505cbff&bsft_mid=8135990e-9781-4da2-b948-bdfe2daa1da6&bsft_txnid=44b59e97-7c24-4400-8c87-b535dd754b12&bsft_mime_type=html&bsft_ek=2022-02-25T18%3A33%3A03Z&bsft_lx=5&bsft_tv=24)
+
+
+=========================
+
 
 ![lod](https://user-images.githubusercontent.com/36210723/155847223-3d897722-ba76-4b55-b68f-8803ef56fd73.png)
 
 
 
+.
 
 
 ------------------------------------------------------------------------------------------------
