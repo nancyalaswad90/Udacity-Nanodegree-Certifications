@@ -2,7 +2,7 @@
 
 
 
-> ## 1st phase is all basics
+> ## [1st phase is all basics](https://app.slack.com/client/T04DK5F8UPJ/C04CSH2CJ9K)
 
 =============================
 
