@@ -206,14 +206,14 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
   > ## 11. ). [Product Development](https://learn.udacity.com/view-certificate/cd12366)
 > 
 
-.
 
 
 
 .
 
-<img width="522" alt="product" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/abaccdc4-ce28-450c-8f6b-be45e3aaa7e8">
 
+
+<img width="825" alt="Capture" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/9fbb13d9-4294-454c-a61f-241c1654caa0">
 
 .
 
