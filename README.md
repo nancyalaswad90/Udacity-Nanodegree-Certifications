@@ -211,7 +211,8 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 .
-<img width="825" alt="Capture" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/0705827c-6380-4229-80c1-f0579cc89b2e">
+
+<img width="522" alt="product" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/abaccdc4-ce28-450c-8f6b-be45e3aaa7e8">
 
 
 .
