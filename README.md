@@ -9,7 +9,7 @@
 ====================================
 
 
-<img width="1050" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/73e44bf5-5ca3-42ac-8461-bb1e3dfe7b47">
+
 
 
 
@@ -209,7 +209,11 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
   > ## 11. ). [Product Development](https://learn.udacity.com/view-certificate/cd12366)
 > 
 
-<img width="507" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/6ceebc6e-da19-49c9-8d07-37692c119d9d">
+.
+
+<img width="1050" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/73e44bf5-5ca3-42ac-8461-bb1e3dfe7b47">
+
+.
 
 
 > ================================================================================================================
