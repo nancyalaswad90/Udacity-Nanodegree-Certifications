@@ -27,6 +27,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
+
 .
 
 --------------------------------------------------------------------
@@ -202,16 +203,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
   > ## 11. ). [Product Development](https://learn.udacity.com/view-certificate/cd12366)
 > 
 
-[Product Development from Udacity](<img width="507" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/074aea70-9c82-4f55-8a84-bc6356d49ebc">)
-
-
-.
-
-
-
-<img width="825" alt="Capture" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/9fbb13d9-4294-454c-a61f-241c1654caa0">
-
-.
+<img width="507" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/6ceebc6e-da19-49c9-8d07-37692c119d9d">
 
 
 > ================================================================================================================
