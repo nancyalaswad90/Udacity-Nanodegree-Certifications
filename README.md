@@ -9,12 +9,12 @@
 ====================================
 
 
+<img width="1050" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/73e44bf5-5ca3-42ac-8461-bb1e3dfe7b47">
 
 
 
 
 .
-<img width="1000" alt="pmp44444" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/446e8f0f-d7e5-4640-ab44-a3052acc5260">
 
 
 > ## 1. )  [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
