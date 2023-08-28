@@ -12,8 +12,6 @@
 
 
 
-
-
 .
 
 
@@ -190,7 +188,16 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-  .
+
+
+
+.
+
+--------------------------------------------------------------------
+
+
+.
+  
   
   > ## 10. )   . [ Some Project for User Experience ( Beta ) Nanodegree Program   ](https://classroom.udacity.com/nanodegrees/nd578-beta/syllabus/core-curriculum)
 
@@ -199,12 +206,16 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
   
   > ![ux](https://user-images.githubusercontent.com/36210723/154187327-4955c217-2480-4a96-bcfe-77dde2f1c7cb.png)
 
-  .
-
 
 
 
 .
+
+--------------------------------------------------------------------
+
+
+.
+  
 
   > ## 11. ). [Product Development](https://learn.udacity.com/view-certificate/cd12366)
 > 
@@ -212,6 +223,22 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 .
 
 <img width="1050" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/73e44bf5-5ca3-42ac-8461-bb1e3dfe7b47">
+
+
+
+.
+
+--------------------------------------------------------------------
+
+
+.
+  
+  > ## 12  )   .[Banque Saudi Fransi Intro to Financial Sustainability])(https://learn.udacity.com/paid-courses/cd12510)
+
+.
+
+
+![sudi](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/4db7ed37-63da-421a-8860-27998bcc24d5)
 
 .
 
