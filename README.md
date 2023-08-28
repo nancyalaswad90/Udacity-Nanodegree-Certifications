@@ -233,7 +233,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
   
-  > ## 12  )   .[Banque Saudi Fransi Intro to Financial Sustainability])(https://learn.udacity.com/paid-courses/cd12510)
+  > ## 12  )   .[Banque Saudi Fransi Intro to Financial Sustainability](https://learn.udacity.com/paid-courses/cd12510)
 
 .
 
