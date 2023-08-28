@@ -7,8 +7,9 @@
 
 
 ====================================
+<img width="700" alt="pmp0000" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/f1b45102-8247-41b9-892d-05bc55704c8d">
 
-<img width="522" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/8b844280-2dff-4f3d-996b-c3bfb69a27a2">
+
 
 .
 
