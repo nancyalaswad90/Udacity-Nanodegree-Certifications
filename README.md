@@ -142,10 +142,14 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
+.
+
+> ## 8. )   [Product Development from Udacity](https://graduation.udacity.com/confirm/e/26adadfc-70e5-11ed-8fc1-e36dd184fca5)
 
 
 
 .
+
 
 
 --------------------------------------------------------------------
