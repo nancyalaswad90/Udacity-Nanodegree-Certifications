@@ -5,10 +5,10 @@
 # Udacity Nanodegree Certifications
 
 
-<img width="507" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/2a2cb3cf-e312-4b64-af10-791ed16de86e">
 
 ====================================
 
+<img width="522" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/8b844280-2dff-4f3d-996b-c3bfb69a27a2">
 
 .
 
