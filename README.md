@@ -144,7 +144,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 .
 
-> ## 8. )   [Product Development from Udacity](https://graduation.udacity.com/confirm/e/26adadfc-70e5-11ed-8fc1-e36dd184fca5)
+> ## 8. )   [Product Development from Udacity](<img width="507" alt="pmp" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/074aea70-9c82-4f55-8a84-bc6356d49ebc">)
 
 
 
