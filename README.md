@@ -159,7 +159,7 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 
-> ## 8. )   . [ Product Manager Program  ( Beta ) Nanodegree Program ](https://classroom.udacity.com/nanodegrees/nd036-beta/dashboard/overview)
+> ## 8. )   . [ Product Manager Program  ( Beta ) Nanodegree Program ](https://classroom.udacity.com/nanodegrees/nd036-beta/dashboard/overview)  and the update [Product Manager](https://learn.udacity.com/view-certificate/nd036)
 
 > ## And Here is my Data Analyst Nanodegree Certificate
 
