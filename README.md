@@ -155,6 +155,17 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 >  ![Program  Certification](https://user-images.githubusercontent.com/36210723/118921989-d9061780-b941-11eb-85cf-f7c4929aafa9.png)
 
 
+.
+
+
+> ##  Also update this certification with [Connect Mentorshipprogram](https://learn.udacity.com/nanodegrees/nd317)
+
+
+
+.
+
+
+<img width="1006" alt="Connect Mentorshinnnnnnnnnnnn" src="https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/assets/36210723/4772c954-8093-41c6-a80a-5fd444db12c5">
 
 
 .
