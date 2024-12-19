@@ -362,3 +362,17 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 
 .
+.
+
+
+![image](https://github.com/user-attachments/assets/1663d16a-c2ba-4620-87c7-b6c5c1d0452e)
+
+
+  .
+
+--------------------------------------------------------------------
+
+
+.
+
+
