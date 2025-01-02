@@ -9,7 +9,7 @@
 ====================================
 
 
-> ## 1. )  [Udacity Foundation of Ethical Hacking ](www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
+> ## 1. )  [Udacity Foundation of Ethical Hacking](www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
 
 
 ![image](www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
