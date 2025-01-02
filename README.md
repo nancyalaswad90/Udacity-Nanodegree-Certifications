@@ -11,8 +11,10 @@
 
 > ## 1. )  [Udacity Foundation of Ethical Hacking](https://www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
 
+.
 
-![image](www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
+![image](https://github.com/user-attachments/assets/5e8c1a0d-ca7e-49f9-a35f-b49dc65fcd50)
+
 
 
 
