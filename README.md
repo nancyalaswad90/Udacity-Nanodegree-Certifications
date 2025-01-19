@@ -8,7 +8,7 @@
 
 ====================================
 
-> ## -   [Linear and Logistic Regression](https://www.udacity.com/certificate/e/109efebc-bf35-11ef-965c-cb51aff76725)
+> ##  -  [Linear and Logistic Regression](https://www.udacity.com/certificate/e/109efebc-bf35-11ef-965c-cb51aff76725)
 
 
 .
