@@ -8,6 +8,11 @@
 
 ====================================
 
+> ## 1. )  [Linear and Logistic Regression](www.udacity.com/certificate/e/109efebc-bf35-11ef-965c-cb51aff76725)
+
+
+
+
 
 > ## 1. )  [Udacity Foundation of Ethical Hacking](https://www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
 
