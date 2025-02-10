@@ -31,7 +31,9 @@
 
 .
 
-> ## 1. )  [Udacity Foundation of Ethical Hacking](https://www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
+.
+
+> ##  -  [Udacity Foundation of Ethical Hacking](https://www.udacity.com/certificate/e/4d480412-b7ba-11ef-bdd0-93663d6ad9ff)
 
 .
 
@@ -49,7 +51,9 @@
 .
 
 
-> ## 1. )  [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+.
+
+> ##  -  [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 
 In this Nanodegree Program, we're using Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions.
