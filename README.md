@@ -16,7 +16,7 @@
 .
 
 
-![Data Science Pipelines](https://github.com/user-attachments/assets/f2666906-a7c2-43ed-a99e-df5969220a31)
+![Data Science Pipelines0](https://github.com/user-attachments/assets/df076468-55c6-4b72-bfb6-b6d340c2e71e)
 
 
 .
