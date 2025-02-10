@@ -8,6 +8,19 @@
 
 ====================================
 
+
+> ##  -  [Data Science Pipelines](https://www.udacity.com/certificate/e/e26e24b4-bf2f-11ef-aa62-53ed54220287)
+
+
+
+.
+
+
+![Data Science Pipelines](https://github.com/user-attachments/assets/f2666906-a7c2-43ed-a99e-df5969220a31)
+
+
+.
+
 > ##  -  [Linear and Logistic Regression](https://www.udacity.com/certificate/e/109efebc-bf35-11ef-965c-cb51aff76725)
 
 
