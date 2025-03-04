@@ -1,7 +1,6 @@
 
 .
 
-
 # Udacity Nanodegree Certifications
 
 
